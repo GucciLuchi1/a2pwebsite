@@ -14,11 +14,10 @@ Privacy Policy, Terms, and contact info). US-based business; domain is `.uk`.
 
 The LeadConnector chat widget is embedded site-wide (before `</body>`).
 
-## Before submitting for A2P — replace placeholders
-Search the repo for these and swap in real details:
-- `+1 (000) 000-0000` — phone number
-- `support@goldenviewfinancial.uk` — support email (confirm it's live)
-- `[Business address line 1]` / `[City, State ZIP]` — registered business address
+## Before submitting for A2P — remaining placeholder
+Business phone (+1 909-647-6478) and address (1783 Long Dr, Beaumont, CA 92223)
+are filled in. Still to confirm:
+- `support@goldenviewfinancial.uk` — support email (confirm it's a live inbox)
 
 The consent language, opt-out (STOP/HELP) instructions, and Privacy Policy SMS
 clause are written to match carrier/TCR requirements — keep them consistent with
